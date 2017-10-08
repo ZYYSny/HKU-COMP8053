@@ -1,7 +1,7 @@
 # HKU-COMP8053
-Paper Presentation
+Paper Presentation ([Dropbox](https://www.dropbox.com/home/COMP8053%20Papers%20and%20Projects))
 
-1. [ICML 2013 Visualizing and Understanding Convolutional Networks](https://www.dropbox.com/home/COMP8053%20Papers%20and%20Projects?preview=ICML+2013+Visualizing+and+Understanding+Convolutional+Networks.pdf)
+1. ICML 2013 Visualizing and Understanding Convolutional Networks
 
 2. TCSVT 2012 Empirical Studies in Information Visualization Seven Scenarios
 
