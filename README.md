@@ -1,5 +1,5 @@
 # HKU-COMP8053
-Paper Presentation ([Dropbox](https://www.dropbox.com/home/COMP8053%20Papers%20and%20Projects))
+Paper Presentation ([Google Drive](https://drive.google.com/drive/folders/0B_P65v9k7NmeLVpfY0kwREhoY1k?usp=sharing))
 
 1. ECCV 2014 Visualizing and Understanding Convolutional Networks
 
