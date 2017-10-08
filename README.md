@@ -1,7 +1,7 @@
 # HKU-COMP8053
 Paper Presentation ([Dropbox](https://www.dropbox.com/home/COMP8053%20Papers%20and%20Projects))
 
-1. ICML 2013 Visualizing and Understanding Convolutional Networks
+1. ECCV 2014 Visualizing and Understanding Convolutional Networks
 
 2. TCSVT 2012 Empirical Studies in Information Visualization Seven Scenarios
 
@@ -31,7 +31,7 @@ Paper Presentation ([Dropbox](https://www.dropbox.com/home/COMP8053%20Papers%20a
 
 15. TCSVT 2017 Visual Methods for Anlayzing Probabilistic Classification Data
 
-16. TCSVT 2017 What Would a Graph Look Like in This Layot A Machine Learning Approach to Large Graph Visualization
+16. TCSVT 2017 What Would a Graph Look Like in This Layout? A Machine Learning Approach to Large Graph Visualization
 
 17. VAST 2011 Observation-Level Interaction with Statistical Models for Visual Analytics
 
