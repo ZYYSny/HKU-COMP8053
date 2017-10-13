@@ -40,3 +40,13 @@ Paper Presentation ([Google Drive](https://drive.google.com/drive/folders/0B_P65
 19. VIS 2017 Visualization of Big Spatial Data using Coresets for Kernel Density Estimates
 
 20. TCSVT 2016 Optimal Sets of Projections of High-Dimensional Data
+
+Assignment 1. Dimension Reduction and Clustering Algorithms
+
+1. Choose one dimension reduction or clustering algorithm to implement using c/c++, python, matlab
+
+2. All core algorithms should be written by yourself, except the basic matrix operations, such as SVD decomposition
+
+3. When submit the assignment, the readme.txt should write what dataset has been used and how to run your codes
+
+4. Here are some recommaned datasets. http://web.mit.edu/cocosci/isomap/datasets.html and https://drive.google.com/drive/u/1/folders/0B_P65v9k7Nmed2JPVWNlV3hYYVE
